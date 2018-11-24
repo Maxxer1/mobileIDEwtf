@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>IDEwtf</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2018-11-24T18:37:57+01:00</updated>
+ <id></id>
+ <author>
+   <name>Mariusz Ozdoba</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Xcode is testing my vision</title>
+   <link href="/2018/11/24/xcode-is-testing-my-vision/"/>
+   <updated>2018-11-24T00:00:00+01:00</updated>
+   <id>/2018/11/24/xcode-is-testing-my-vision</id>
+   <content type="html">&lt;p&gt;There is some days at work when you are asking yourself: am I really seeing this?
+After showing this to my coworkers they also agreed that Xcode interface builder was testing our vision. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/2018-11-24-xcode-is-testing-my-vision/1.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Xcode started to be little blurry. I thought that is something wrong with my monitor but after moving Xcode window Desktop below was perfectly normal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/2018-11-24-xcode-is-testing-my-vision/2.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
