@@ -10,16 +10,10 @@ relative_permalinks: true
 title:            IDEwtf
 tagline:          'A Jekyll theme'
 description:      'We write about things that happen to our IDEs.'
-url:              http://idewtf.com
-baseurl:          /
 
 author:
   name:           'Mariusz Ozdoba'
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
