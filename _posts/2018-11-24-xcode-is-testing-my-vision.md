@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Xcode is testing my vision
+author: Mariusz Ozdoba
 ---
 
 There is some days at work when you are asking yourself: am I really seeing this?

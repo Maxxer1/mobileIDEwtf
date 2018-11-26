@@ -13,9 +13,9 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
+      <h4>{{ post.author }}</h4>
     </h2>
     {% include post-meta.html post=post %}
-
     {% if post.excerpt %}
       {{ post.excerpt }}
     {% else %}

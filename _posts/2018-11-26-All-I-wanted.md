@@ -1,6 +1,7 @@
 ---
 layout: post
 title: All I wanted was to rearrange some layouts...
+author: Anna Lazar
 ---
 
 While not nearly as crash-prone as Xcode's interface builder, Android Studio's designer also has its worse days.
